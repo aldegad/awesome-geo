@@ -122,6 +122,7 @@ These corroborate that the terms exist; they are **not** promoted to Google poli
 | Semrush — Answer Engine Optimization | https://www.semrush.com/blog/answer-engine-optimization/ | Frames AEO as marketing practices for brand visibility in AI answers |
 | Ahrefs — Answer Engine Optimization | https://ahrefs.com/blog/answer-engine-optimization/ | Frames AEO as an SEO complement for direct-answer surfaces |
 | Search Engine Journal — Google's guide calls AEO/GEO still SEO | https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/ | Industry read of Google's official guide. Keep the Google doc as the primary source |
+| AEO Footnotes Lab: robots.txt and llms.txt across 118 AEO vendor sites | https://aeofootnotes.com/lab/robotstxt-and-llmstxt-across-118-aeo-tools-and-agency-sites-what-we-found | Measured data, not policy: 64 of 118 AEO vendor sites serve llms.txt and almost none block AI crawlers. Raw JSON linked |
 
 ## What to Ignore (Overhyped Claims)
 
